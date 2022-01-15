@@ -1,6 +1,3 @@
-# codepath-prework
-This is the prework for the iOS Codepath class. This project is a basic tip caluclator
-
 # Pre-work - Tip Calculator
 
 Tip Calculator is a tip calculator application for iOS.
@@ -26,12 +23,14 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Added a feature to have the total bill split amongst a group of people
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/Sx2FsdE.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
